@@ -1,0 +1,14 @@
+.all-services {
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 2px rgb(214, 204, 204);
+    width: 200px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.mini-service {
+    margin-left: 40px;
+}
+
+.all-services:hover {
+    transform: scale(1.1);
+}
