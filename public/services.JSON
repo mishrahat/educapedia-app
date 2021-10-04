@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Creative Thinking",
+        "price": 56,
+        "img": "https://premieragribusinessacademy.com/wp-content/uploads/2020/10/Creative-Thinking-The-Critical-Skill-For-The-Creative-Economy-760x489-2.png"
+    },
+    {
+        "name": "Career Planning",
+        "price": 67,
+        "img": "https://www.moneycrashers.com/wp-content/uploads/2011/09/college-education-career-major-field-1068x713.jpg"
+    },
+    {
+        "name": "Public Speaking",
+        "price": 46,
+        "img": "https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/988/posts/31255/image/What-is-public-speaking%20(1).jpg"
+    },
+    {
+        "name": "Language Learning",
+        "price": 186,
+        "img": "https://www.imagesofvegas.com/wp-content/uploads/2021/06/apps-platforms-to-learn-new-foreign-languages-1024x768.jpg"
+    },
+    {
+        "name": "Science and Technology",
+        "price": 89,
+        "img": "https://sciencedigest.org/wp-content/uploads/2021/04/humanbrainshutterstock_719504626_1.jpg"
+    },
+    {
+        "name": "Path Of Engineering",
+        "price": 34,
+        "img": "https://premieragribusinessacademy.com/wp-content/uploads/2020/10/Creative-Thinking-The-Critical-Skill-For-The-Creative-Economy-760x489-2.png"
+    },
+    {
+        "name": "Architecture and Construction",
+        "price": 96,
+        "img": "http://career.iresearchnet.com/wp-content/uploads/2014/05/Architecture-and-Construction.jpg"
+    },
+    {
+        "name": "Personal Finance",
+        "price": 98,
+        "img": "https://www.passionateinmarketing.com/wp-content/uploads/2020/06/Personal-Finance.jpg"
+    },
+    {
+        "name": "Agriculture, Food, and Natural Resources.",
+        "price": 26,
+        "img": "https://finditbeit.org/wp-content/uploads/2018/12/iStock-923122126_2.jpg"
+    }
+]

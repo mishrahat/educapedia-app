@@ -1,0 +1,12 @@
+.myService {
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.service-info {
+    margin-top: 10px;
+}
+.myService:hover {
+    background-color: #706da3;
+}

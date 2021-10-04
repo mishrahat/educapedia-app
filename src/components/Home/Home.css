@@ -1,0 +1,72 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.title {
+    font-family: 'Fredoka One', cursive;
+    font-weight: 500;
+    margin-top: 15px;
+    font-size: 80px;
+    margin-left: 55px;
+}
+
+
+.girl-image img{
+ position: relative;
+ right: 100px;
+ top: -30px;
+}
+
+.start-btn {
+    background-color: #2f2d52;
+    color: white;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    border-radius: 30px;
+    margin-left: 75px;
+    margin-top: 20px;
+    cursor: pointer;
+    box-shadow: 1px 10px 15px 5px rgb(202, 198, 198);
+}
+
+.start-btn:hover {
+   transform: scale(1.2);
+}
+
+.fa-chevron-circle-right {
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+}
+
+.second-section {
+    margin-top: 80px;
+}
+
+.fa-user {
+    color: #2f2d52;
+}
+.fa-bolt {
+    color: goldenrod;
+}
+
+.fa-chalkboard-teacher {
+    color:rgb(78, 131, 23);
+}
+
+.more-heading {
+    margin-left: 70px;
+}
+
+.programs {
+    background-color: #2f2d52;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+
+.my-services {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
