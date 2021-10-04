@@ -7,6 +7,7 @@ import About from './components/About/About';
 import Services from './components/Services/Services';
 import Teachers from './components/Teachers/Teachers';
 import NotFound from './components/NotFound/NotFound';
+import CourseDetails from './components/CourseDetails/CourseDetails';
 
 function App() {
   return (
@@ -28,6 +29,9 @@ function App() {
           </Route>
           <Route path='/teachers'>
             <Teachers></Teachers>
+          </Route>
+          <Route path='/service/:details'>
+            <CourseDetails></CourseDetails>
           </Route>
           <Route path='*'>
             <NotFound></NotFound>

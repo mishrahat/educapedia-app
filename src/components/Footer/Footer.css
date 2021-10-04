@@ -26,3 +26,13 @@
     margin-top: 45px;
 }
 
+@media (max-width: 688px) {
+    .row {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .col-lg-3 {
+        position: relative;
+        right: 200px;
+    }
+}

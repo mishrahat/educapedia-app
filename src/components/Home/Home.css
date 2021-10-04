@@ -70,3 +70,22 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
+
+@media (max-width: 688px) {
+    .container{
+        overflow: hidden;
+    }
+    hr{
+        display: none;
+    }
+    .girl-image img {
+        margin-left: 100px;
+    }
+    .title {
+        font-size: 50px
+    }
+    .my-services {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

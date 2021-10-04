@@ -45,3 +45,11 @@ hr {
    color: #2f2d52;
 
 }
+
+@media (max-width: 688px) {
+   .navbar {
+      position: relative;
+      left: 50px;
+   }
+   
+}
