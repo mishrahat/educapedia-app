@@ -3,6 +3,7 @@ import girl from '../../images/girl.png';
 import boy from '../../images/boy.png';
 import './Home.css';
 import HomeServices from '../HomeServices/HomeServices';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
     const [services, setServices] = useState([]);
@@ -23,7 +24,9 @@ const Home = () => {
                 </div>
                 <div className="col-lg-4">
                     <h1 className='title'>Give Every Child A Good Start</h1>
-                    <button className='start-btn'>Get Started <i className="fas fa-chevron-circle-right"></i></button>
+                    <Link to='/services'>
+                        <button className='start-btn'>Get Started <i className="fas fa-chevron-circle-right"></i></button>
+                    </Link>
                 </div>
                 <div className="col-lg-4">
                     <img className='w-100' src={boy} alt="" />
